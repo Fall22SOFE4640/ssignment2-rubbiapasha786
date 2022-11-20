@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-#  Zip folder has been attached as well for easy download 
+##  Zip folder has been attached as well for easy download 
 
 ## Getting Started
 
