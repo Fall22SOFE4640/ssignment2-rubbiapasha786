@@ -1,6 +1,7 @@
 # assignment2
 
 A new Flutter project.
+Zip folder has been attached as well for easy download 
 
 ## Getting Started
 
