@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-##Zip folder has been attached as well for easy download 
+#  Zip folder has been attached as well for easy download 
 
-### Getting Started
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
