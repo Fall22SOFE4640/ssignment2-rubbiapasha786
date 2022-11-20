@@ -1,9 +1,10 @@
 # assignment2
 
 A new Flutter project.
-Zip folder has been attached as well for easy download 
 
-## Getting Started
+##Zip folder has been attached as well for easy download 
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
